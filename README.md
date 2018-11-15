@@ -19,6 +19,9 @@ For the 2018 DC Offsite Lab
 A less-quick change by Tom in Milwaukee
 
 
+## ALex weas here, where were you?  We looked everywhere! 
+
+
   
 Carrie's Edit *this will be italics*  **this will be bold** 
 
@@ -36,4 +39,5 @@ Carrie's Edit *this will be italics*  **this will be bold**
 # Third change by JG
 
 Change by LD
+
 
