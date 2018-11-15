@@ -12,4 +12,4 @@ For the 2018 DC Offsite Lab
   
 *quick change by cecilia*
 
-## ALex weas here, where were you?
+## ALex weas here, where were you?  We looked everywhere! 
