@@ -1,16 +1,25 @@
 # dcoffsite
 For the 2018 DC Offsite Lab
 
-### Hello World
+### Hello World from DC offsite (again)
 
 ![](https://raw.githubusercontent.com/hearsttv/dcoffsite/master/unicorn.gif)
 
-*italics*
-**bold**
+*italics font*
+**bold font**
 - bullet
   - sub bullet
+  **Clint made this edit**
+  ## What an awesome edit it is
+  # Clint made another awesome edit
   
+
+=======
 *quick change by cecilia*
+A less-quick change by Tom in Milwaukee
+
+
+## ALex weas here, where were you?  We looked everywhere! 
 
 
   
@@ -25,12 +34,18 @@ Carrie's Edit *this will be italics*  **this will be bold**
 
 ### Change by JG
 
-*Second change by JG*
+*Second change by JG
 
 # Third change by JG
+
 
 ### **Meow, meow**
 
 ![](https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif)
 
  from Liz & Andre
+
+Change by LD
+
+
+
