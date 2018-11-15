@@ -5,7 +5,7 @@ import (
 )
 
 func helloDC(done chan bool) {
-	fmt.Println("What up DC Offsite!!!!!!!!!!!!!")
+	fmt.Println("What up DC Offsite!!!!!!!!!!!!! Unicorns Forever")
 	done <- true
 }
 func main() {
@@ -14,3 +14,4 @@ func main() {
 	<-done
 	fmt.Println("main function")
 }
+
