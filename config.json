@@ -3,5 +3,6 @@
 	"secret-key": "abcxyznnn"
 }, {
 	"site": "wesh.com",
-	"secret-key": "mnopqrst"
+	"secret-key": "mnopqrst",
+	"Hello GitHub": "Cool"
 }]
