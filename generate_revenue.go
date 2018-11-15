@@ -5,7 +5,7 @@ import (
 )
 
 func helloDC(done chan bool) {
-	fmt.Println("Hello Hearst DC Offsite!!!!!!!!!!!!!!")
+	fmt.Println("=^..^=")
 	done <- true
 }
 func main() {
